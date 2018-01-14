@@ -8,7 +8,7 @@
 
 ## 使用方法
 1. 登录灯塔竞赛页，点击开始答题
-2. F12打开浏览器控制台，查看本套试题的roundOnlyId。（注意：roundOnlyId可能会显示不全，双击，光标后移可查看剩余部分）
+2. F12打开浏览器控制台，查看本套试题的22位的roundOnlyId。（注意：roundOnlyId可能会显示不全，双击，光标后移可查看剩余部分）
 
 ![如何查找roundOnlyId](http://oiiwwqiek.bkt.clouddn.com/img/github/dt.jpg)
 
