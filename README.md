@@ -1,8 +1,7 @@
-# dt-answer
+# dt-answer已废弃
 灯塔竞赛答案查询
 
 答题地址: [http://xxjs.dtdjzx.gov.cn/](http://xxjs.dtdjzx.gov.cn/)</br>
-答案查询地址: [http://dtanswer.cheeseyu.cn/](http://dtanswer.cheeseyu.cn/)
 </br>
 </br>
 
